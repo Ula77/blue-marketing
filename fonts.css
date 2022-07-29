@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Rubik';
+    src: url('./fonts/Rubik-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+  .blog__wrap p{
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+  }
